@@ -17,7 +17,8 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^7.1.2"
+    "electron": "^7.1.2",
+    "nodemon": "^2.0.1"
   },
   "dependencies": {
     "bootstrap": "^4.3.1"
